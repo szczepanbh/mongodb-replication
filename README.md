@@ -2,7 +2,7 @@
 
 To create two shared-clasters containging three-member replica set each just run
 ```
-docker-compose up
+docker-compose up -d
 ./commands.sh
 ```
 it will create such a containers
